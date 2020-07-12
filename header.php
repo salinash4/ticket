@@ -7,7 +7,7 @@
     <title>Sistema de Ticket</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="App de Ticket para Coodeñe">
-    <meta name="author" content="@">
+    <meta name="author" content="@hugo">
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">      
