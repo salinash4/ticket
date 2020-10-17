@@ -1,2 +1,2 @@
 # ticket
-Aplicacion Ticket para Coodeñe
+Aplicacion Ticket para Cood
