@@ -1,2 +1,2 @@
 # ticket
-Aplicacion Ticket para Cood
+Aplicacion para generar tickets de soporte tecnico.
